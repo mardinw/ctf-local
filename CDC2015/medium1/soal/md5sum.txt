@@ -1,0 +1,3 @@
+37d8ba6ac51d12e454dd8330b6d9b8b9  QR.tar.gz
+9905383ccbb1f27856eb1c405a63ec92  Selamat-Malam.tar.gz
+4e5cec815339477e4e2d08849c38a733  Soal1.txt
